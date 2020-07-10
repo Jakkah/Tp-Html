@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+ORG:My Little Company
+TITLE:Agence Web / Publicitaire
+TEL;TYPE=WORK,VOICE:05.61.23.23.23
+ADR;TYPE=WORK:;;10, Downing Street;london;1000;England
+LABEL;TYPE=:;;10, Downing Street;London;1000;\nEngland
+REV:20080424T195243Z
+END:VCARD
